@@ -8,54 +8,55 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+---
 
-###
+<h2>About Me</h2>
 
-<h5 align="left">NAME: SERGE ESGUERRA<br><br>    LOCATION: BASED IN QUEZON CITY, PHILIPPINES.<br><br>    SCHOOL: TECHNOLOGICAL INSTITUTE OF THE PHILIPPINES (T.I.P.).<br><br>    CURRENT STATUS: 2ND YEAR - COMPUTER ENGINEERING STUDENT.<br><br>    FOCUS: BUILDING A STRONG FOUNDATION IN BOTH HARDWARE AND SOFTWARE DEVELOPMENT.<br><br>    PURPOSE OF THIS PROFILE: THIS IS WHERE I SHARE MY WORK, TRACK MY PROGRESS, AND COLLABORATE ON INTERESTING PROJECTS.</h5>
+<p>
+I am Serge Esguerra, a motivated 2nd-year Computer Engineering student based in Quezon City, Philippines. 
+I am eager to learn, solve technical challenges, and apply my knowledge to practical projects. 
+While still developing my skills, I am committed to continuous growth and welcome opportunities to collaborate and expand my experience in the field of Computer Engineering.
+</p>
 
-###
+<p>
+<strong>School:</strong> Technological Institute of the Philippines (T.I.P.)<br>
+<strong>Focus:</strong> Building a strong foundation in both hardware and software development<br>
+<strong>Purpose of this Profile:</strong> Share my work, track my progress, and collaborate on interesting projects
+</p>
 
-<p align="left">I am a hardworking, highly motivated, and detail-oriented student passionate about solving complex technical challenges. I thrive on continuous learning and am always seeking opportunities to apply theoretical knowledge to practical, innovative projects. I believe in delivering quality work and am committed to making meaningful contributions in the field of Computer Engineering.</p>
+---
 
+<h2>Socials</h2>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
 
-###
-
-<h3 align="left">SOCIALS</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  <a href="https://www.facebook.com/srges2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/srges_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
+  </a>
+  <a href="https://t.me/srgess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/serge-esguerra-a3309a377/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="LinkedIn" />
+  </a>
 </div>
 
-###
 
-<h3 align="left">Language and tools</h2>
 
-###
+---
+
+<h2>Languages & Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" style="margin-right:10px" />
 </div>
 
-###
